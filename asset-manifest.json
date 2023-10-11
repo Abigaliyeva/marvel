@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Abigaliyeva/marvel.git/static/css/main.b8fa8c45.chunk.css",
+    "main.js": "/Abigaliyeva/marvel.git/static/js/main.868550fa.chunk.js",
+    "main.js.map": "/Abigaliyeva/marvel.git/static/js/main.868550fa.chunk.js.map",
+    "runtime-main.js": "/Abigaliyeva/marvel.git/static/js/runtime-main.96314a97.js",
+    "runtime-main.js.map": "/Abigaliyeva/marvel.git/static/js/runtime-main.96314a97.js.map",
+    "static/js/2.1686fabd.chunk.js": "/Abigaliyeva/marvel.git/static/js/2.1686fabd.chunk.js",
+    "static/js/2.1686fabd.chunk.js.map": "/Abigaliyeva/marvel.git/static/js/2.1686fabd.chunk.js.map",
+    "index.html": "/Abigaliyeva/marvel.git/index.html",
+    "static/css/main.b8fa8c45.chunk.css.map": "/Abigaliyeva/marvel.git/static/css/main.b8fa8c45.chunk.css.map",
+    "static/js/2.1686fabd.chunk.js.LICENSE.txt": "/Abigaliyeva/marvel.git/static/js/2.1686fabd.chunk.js.LICENSE.txt",
+    "static/media/Avengers.4065c8f9.png": "/Abigaliyeva/marvel.git/static/media/Avengers.4065c8f9.png",
+    "static/media/Avengers_logo.9eaf2193.png": "/Abigaliyeva/marvel.git/static/media/Avengers_logo.9eaf2193.png",
+    "static/media/error.42292aa1.gif": "/Abigaliyeva/marvel.git/static/media/error.42292aa1.gif",
+    "static/media/mjolnir.61f31e18.png": "/Abigaliyeva/marvel.git/static/media/mjolnir.61f31e18.png",
+    "static/media/vision.067d4ae1.png": "/Abigaliyeva/marvel.git/static/media/vision.067d4ae1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96314a97.js",
+    "static/js/2.1686fabd.chunk.js",
+    "static/css/main.b8fa8c45.chunk.css",
+    "static/js/main.868550fa.chunk.js"
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Abigaliyeva/marvel.git/static/css/main.b8fa8c45.chunk.css",
-    "main.js": "/Abigaliyeva/marvel.git/static/js/main.868550fa.chunk.js",
-    "main.js.map": "/Abigaliyeva/marvel.git/static/js/main.868550fa.chunk.js.map",
+    "main.js": "/Abigaliyeva/marvel.git/static/js/main.f15857b1.chunk.js",
+    "main.js.map": "/Abigaliyeva/marvel.git/static/js/main.f15857b1.chunk.js.map",
     "runtime-main.js": "/Abigaliyeva/marvel.git/static/js/runtime-main.96314a97.js",
     "runtime-main.js.map": "/Abigaliyeva/marvel.git/static/js/runtime-main.96314a97.js.map",
     "static/js/2.1686fabd.chunk.js": "/Abigaliyeva/marvel.git/static/js/2.1686fabd.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.96314a97.js",
     "static/js/2.1686fabd.chunk.js",
     "static/css/main.b8fa8c45.chunk.css",
-    "static/js/main.868550fa.chunk.js"
+    "static/js/main.f15857b1.chunk.js"
   ]
 }

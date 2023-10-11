@@ -1,7 +1,7 @@
 {
   "name": "marvel",
   "version": "0.1.0",
-  "homepage": "https://github.com/Abigaliyeva/marvel.git/",
+  "homepage": "https://abigaliyeva.github.io/marvel/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
